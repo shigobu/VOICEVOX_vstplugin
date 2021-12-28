@@ -11,11 +11,11 @@ JUCEには、jsonパーサもあるし、httpクライアント機能もある�
 C++  
 
 ### IDEやビルド環境
+CMake  
+
+補助的に  
 Visual Studio(2019 or 2022) (win)  
 X Code (mac)
-
-あるいはCMake  
-クロスプラットフォームを考えるのならばCMakeが良さそうだが、CMakeは使ったことが無い。
 
 ## 想定機能
 VOICEVOXのエディタ機能をだいたいそのまま実装する。
