@@ -1,0 +1,2 @@
+# VOICEVOX_vstplugin
+VOICEVOXのエディターをVSTプラグイン化したい
